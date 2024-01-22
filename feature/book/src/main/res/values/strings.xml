@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PdfViewer</string>
+    <string name="search_pdf">탐색</string>
+    <string name="pdf_bookmark">북마크하기</string>
+    <string name="pdf_bookmarked">북마크됨</string>
+    <string name="pdf_only_bookmark">북마크만</string>
+    <string name="pdf_all">전체</string>
+</resources>
